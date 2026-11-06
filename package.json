@@ -1,5 +1,5 @@
 {
-  "homepage": "https://praneeth-ak.github.io/Simple-modal-popup",
+  "homepage": "https://github.com/praneeth-ak/Simple-modal-popup2",
   "name": "simple-modal-popup",
   "private": true,
   "version": "1.0.0",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d distnpm run deploy"
   },
   "dependencies": {
     "react": "^18.3.1",
